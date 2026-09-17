@@ -6,7 +6,7 @@ I am a student developer interested in building mobile and web applications that
 - Python
 - HTML, CSS, JavaScript
 - Firebase
-- FlutterFlow & Flutter
+- FlutterFlow & Flutter (Dart)
 
 ## Projects
 - Solace – Mental wellness app
