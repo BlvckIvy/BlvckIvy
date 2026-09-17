@@ -15,7 +15,7 @@ I am a student developer interested in building mobile and web applications that
 ## Certificates
 - FNB App of the Year 2025 – Web Development
 
-- 🔭 I’m currently working on StudiPal - an app that allows students to find study partners
-- 🌱 I’m currently learning Flutter
+- I’m currently working on StudiPal - an app that allows students to find study partners
+- I’m currently learning Flutter
 
 -->
